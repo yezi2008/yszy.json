@@ -1,39 +1,39 @@
 {
-	"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731501158246/spo.jar;md5;DCC4DF2D0197DCBB108CBA12050D827C",
-	"sites": [{
-            "key": "豆瓣",
-			"name": "┃豆瓣┃弹幕",
-			"type": 3,
-			"api": "csp_Douban",
-			"searchable": 0
-            },
+	“蜘蛛”：“https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731501158246/spo.jar;md5;DCC4DF2D0197DCBB108CBA12050D827C”，
+	“网站”：[{
+            "key"
+			"name"
+			“类型”：3，
+			"api"
+			“可搜索”：0
+            }
             {
-				"key": "荐片",
-				"name": "┃键盘┃弹幕",
-				"type": 3,
-				"searchable": 1,
-				"quickSearch": 1,
-				"changeable": 1,
-				"playerType": "1",
-				"api": "https://gitee.com/lujun189/ceshi/raw/master/1/libs/drpy2.min.js",
-				"ext": "https://gitee.com/lujun189/ceshi/raw/master/1/js/%E8%8D%90%E7%89%87%5B%E4%BC%98%5D.js"
-            },
-			{
-				"key": "JS_360",
-				"name": "┃石榴┃弹幕",
-				"type": 3,
-				"searchable": 1,
-				"quickSearch": 1,
-				"api": "https://gitee.com/lujun189/ceshi/raw/master/1/libs/drpy2.min.js",
-				"ext": "https://gitee.com/lujun189/ceshi/raw/master/1/js/360.js"
-        },
-		{
-			"key": "荐片弹幕",
-			"name": "┃荐片┃弹幕",
-			"type": 3,
-			"api": "csp_Jianpian",
-			"playerType": 1,
-			"searchable": 1, 
+				"key"
+				"name"
+				“类型”：3，
+				“可搜索”：1，
+				“快速搜索”：1，
+				“变量”：1、
+				“玩家类型”：“1”，
+				“api”：“https://gitee.com/lujun189/ceshi/raw/master/1/libs/drpy2.min.js”，
+				“ext”：“https://gitee.com/lujun189/ceshi/raw/master/1/js/%E8%8D%90%E7%89%87%5B%E4%BC%98%5D.js”189/ceshi/raw/master/1/js/%E8%8D%90%E7%89%87%5B%E4%BC%98%5D.js”
+            },},
+			{{
+				“键”：“JS_360”，360”，
+				"name": "┃石榴┃弹幕","name": "┃石榴┃弹幕",
+				“类型”：3，3，
+				“可搜索”：1，1，
+				“快速搜索”：1，1，
+				“api”：“https://gitee.com/lujun189/ceshi/raw/master/1/libs/drpy2.min.js”，189/ceshi/raw/master/1/libs/drpy2.min.js”，
+				“ext”：“https://gitee.com/lujun189/ceshi/raw/master/1/js/360.js”189/ceshi/raw/master/1/js/360.js”
+        },},
+		{{
+			"key": "荐片弹幕","key": "荐片弹幕",
+			"name": "┃荐片┃弹幕","name": "┃荐片┃弹幕",
+			“类型”：3，3，
+			"api": "csp_建片","api": "csp_建片",
+			“玩家类型”：1，1，
+			“可搜索”：1，1，
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": {
